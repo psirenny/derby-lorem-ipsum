@@ -10,7 +10,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/psirenny/derby-lorem-ipsum.git"
+  },
   "author": "psirenny",
-  "license": "BSD"
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "b243d953720ecb797fbf4ac03de95219be108584"
 }
