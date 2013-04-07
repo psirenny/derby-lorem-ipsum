@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "lorem-ipsum": "*",
+    "underscore": "*"
+  },
+  "name": "derby-lorem-ipsum",
+  "version": "0.0.0",
+  "description": "Lorem ipsum view function for the Derby JS framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "psirenny",
+  "license": "BSD"
+}
