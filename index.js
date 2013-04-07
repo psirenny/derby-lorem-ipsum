@@ -20,7 +20,6 @@ module.exports = function (app) {
         };
       }
 
-      console.log(options);
       return loremIpsum(options);
   });
 }
