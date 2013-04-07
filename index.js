@@ -8,6 +8,7 @@ module.exports = function (app) {
 
       if (units && _.isObject(units)) {
         options = units;
+        options.count = options.count || count;
       } else {
         options = {
             count: count
