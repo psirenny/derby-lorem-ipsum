@@ -4,7 +4,7 @@
     "underscore": "*"
   },
   "name": "derby-lorem-ipsum",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Lorem ipsum view function for the Derby JS framework",
   "main": "index.js",
   "scripts": {
