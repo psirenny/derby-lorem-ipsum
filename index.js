@@ -1,4 +1,4 @@
-var _ = require('underscore')
+var _ = require('lodash')
   , loremIpsum = require('lorem-ipsum');
 
 module.exports = function (app) {
